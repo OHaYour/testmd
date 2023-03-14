@@ -18,9 +18,6 @@
 # 演示预览
 
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo01.png)
-
-
-
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo02.png)
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo03.png)
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo04.png)
@@ -41,7 +38,7 @@
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo19.png)
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo20.png)
 ![image](https://github.com/OHaYour/testmd/blob/main/photo/photo21.png)
-![image](https://github.com/OHaYour/testmd/blob/main/photo/photo22.png)
+
 
 
 
@@ -51,13 +48,10 @@ JDK1.8
 
 Idea、MySQL、Redis
 
-[（回到顶部）](https://github.com/OHaYour/testmd/edit/main/README.md/#table-of-contents)
-
 
 
 # 项目的基本结构
-
-![image-20230311170841859](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170841859.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo22.png)
 
 # 使用方法
 
