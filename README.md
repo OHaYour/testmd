@@ -7,14 +7,16 @@
 
 ##### 项目特色
 1.调用支付宝的接口使得充值方式更加接近真实；
-2.结合当下热点，调用百度地图的接口定位用户发出评论回复的实际地理位置；
-3.页面的顶部，侧面菜单使用vue的组件思想，使用th:fragment;和th:insert；标签在每个页面上进行拼装，提高代码的复用率；
-4.用户发表不当言论，被管理员警告到一定的次数后，会被打上“网暴者”的标签，当此用户在发表任何评论和回复时都会显示，起到震慑的作用。
 
+2.结合当下热点，调用百度地图的接口定位用户发出评论回复的实际地理位置；
+
+3.页面的顶部，侧面菜单使用vue的组件思想，使用th:fragment;和th:insert；标签在每个页面上进行拼装，提高代码的复用率；
+
+4.用户发表不当言论，被管理员警告到一定的次数后，会被打上“网暴者”的标签，当此用户在发表任何评论和回复时都会显示，起到震慑的作用。
 
 # 目录
 
-- [项目名称](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#project-title)
+- [项目名称](https://github.com/OHaYour/testmd/edit/main/README.md#project-title)
 
 - [演示预览](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#demo-preview)
 
@@ -28,7 +30,7 @@
 
 # 演示预览
 
-![image-20230311170002777](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170002777.png)
+![image-20230311170002777](https://github.com/OHaYour/testmd/tree/main/photo/photo01.png)
 
 
 
@@ -60,7 +62,7 @@ JDK1.8
 
 Idea、MySQL、Redis
 
-[（回到顶部）](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#table-of-contents)
+[（回到顶部）](https://github.com/OHaYour/testmd/edit/main/README.md/#table-of-contents)
 
 
 
