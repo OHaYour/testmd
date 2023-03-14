@@ -13,19 +13,6 @@
 3.页面的顶部，侧面菜单使用vue的组件思想，使用th:fragment;和th:insert；标签在每个页面上进行拼装，提高代码的复用率；
 
 4.用户发表不当言论，被管理员警告到一定的次数后，会被打上“网暴者”的标签，当此用户在发表任何评论和回复时都会显示，起到震慑的作用。
-
-# 目录
-
-- [项目名称](https://github.com/OHaYour/testmd/edit/main/README.md#project-title)
-
-- [演示预览](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#demo-preview)
-
-- [目录](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#table-of-contents)
-
-- [安装环境及开发工具](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#installation)
-
-- [用法](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md#usage)
-
   
 
 # 演示预览
@@ -34,28 +21,29 @@
 
 
 
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo02.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo03.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo04.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo05.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo06.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo07.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo08.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo09.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo10.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo11.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo12.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo13.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo14.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo15.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo16.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo17.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo18.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo19.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo20.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo21.png)
+![image](https://github.com/OHaYour/testmd/blob/main/photo/photo22.png)
 
-![image-20230311170039185](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170039185.png)
 
-
-
-![image-20230311170105982](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170105982.png)
-
-![image-20230311170115400](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170115400.png)
-
-![image-20230311170124870](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170124870.png)
-
-![image-20230311170131702](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170131702.png)
-
-![image-20230311170140677](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170140677.png)
-
-![image-20230311170157224](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170157224.png)
-
-![image-20230311170207968](C:\Users\Moki\AppData\Roaming\Typora\typora-user-images\image-20230311170207968.png)
-
-
-
-- 
 
 # 安装环境及开发工具
 
