@@ -30,7 +30,7 @@
 
 # 演示预览
 
-![image-20230311170002777](https://github.com/OHaYour/testmd/tree/main/photo/photo01.png)
+![image](https://github.com/OHaYour/testmd/tree/main/photo/photo01.png)
 
 
 
